@@ -1,5 +1,5 @@
 ### Hi :)
-- 📌 he/his o/ele/-o
+- 📌 any pronous
 
 <div>
   <a href="https://github.com/HakuAkai">
