@@ -13,4 +13,4 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </div>
   <hr>
-![Snake animation](https://github.com/HakuAkai/cobrinha.yml/blob/f50e70b34870e0602e2df14b60bf0e5c81e71361/cobrinha.yml)
+![Snake animation](https://github.com/HakuAkai/rafaballerini/blob/output/github-contribution-grid-snake.svg)
