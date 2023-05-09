@@ -5,9 +5,9 @@
   </div>
   <hr>
   <div>
-    <a href="https://github.com/HakuAkai">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=hakuakai&include_all_commits=true&count_private=true"/>
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakuakai&layout=compact&langs_count=7&theme=swift"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=hakuakai&count_private=true&layout=compact&theme=swift&hide_border"
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakuakai&layout=compact&theme=swift"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakuakai&layout=compact&theme=swift"/>
   </div>
   <div style="display: inline_block"><br>
     <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
