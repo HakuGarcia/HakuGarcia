@@ -6,9 +6,12 @@
     <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
     <br>
-    <object alt="Static Badge" src="https://img.shields.io/badge/DIO-blue?style=for-the-badge&color=3f88c5&link=https%3A%2F%2Fwww.dio.me%2Fusers%2Fjuhh1956">
-
-
+    <a href="https://www.dio.me/users/juhh1956">
+        <img alt="Static Badge" src="https://img.shields.io/badge/DIO-Black?style=flat-square&color=3f88c5">
+    </a>
+        <a href="https://www.dio.me/users/juhh1956">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Currículo-Black?style=flat-square&color=3f88c5">
+    </a>
 </div>
 
 
