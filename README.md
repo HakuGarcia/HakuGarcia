@@ -6,8 +6,10 @@
     <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
     <br>
-    
+    <img alt="Static Badge" src="https://img.shields.io/badge/DIO-Black?style=flat-square&color=3f88c5">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Curriculo-Black?style=flat-square&color=3f88c5">
 </div>
+
 
 <div align="center" style="display: inline-block"><br>
     <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakuakai&layout=compact&theme=transparent&hide_border=true"/>
@@ -16,5 +18,6 @@
 <hr>
 
 ![Snake animation](https://github.com/HakuAkai/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 
 
