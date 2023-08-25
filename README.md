@@ -17,7 +17,7 @@
 
 <div align="center" style="display: inline-block"><br>
     <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakuakai&layout=compact&theme=transparent&hide_border=true"/>
-    <img width="300" src="https://github-readme-stats.vercel.app/api?username=hakuakai&count_private=true&layout=compact&theme=transparent&hide_border=true" 
+    <img width="300" src="https://github-readme-stats.vercel.app/api?username=hakuakai&count_private=true&layout=compact&theme=transparent&hide_border=true"> 
 </div>
 <hr>
 
