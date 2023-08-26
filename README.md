@@ -23,8 +23,10 @@
     <img width="300" src="https://github-readme-stats.vercel.app/api?username=hakuakai&count_private=true&layout=compact&theme=transparent&hide_border=true"/> 
 </div>
 <hr>
-
-![Snake animation](https://github.com/HakuAkai/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<div align="center" style="display: inline-block">
+    <img src="https://streak-stats.demolab.com/?user=HakuAkai&theme=transparent&color=blue&background=000&border=0525B3&dates=FFF"/>
+    <img src="https://github.com/HakuAkai/rafaballerini/blob/output/github-contribution-grid-snake.svg"/>
+</div>
 
 
 
