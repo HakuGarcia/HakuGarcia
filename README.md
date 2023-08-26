@@ -9,7 +9,7 @@
     <a href="https://www.dio.me/users/juhh1956">
         <img alt="Static Badge" src="https://img.shields.io/badge/DIO-blue?style=for-the-badge">
     </a>
-    <a href="https://www.linkedin.com/in/hakuakai">
+    <a href="https://www.linkedin.com/hakuakai">
         <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge">
     </a>
     <a href="https://www.dio.me/users/juhh1956">
