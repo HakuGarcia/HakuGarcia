@@ -3,14 +3,17 @@
 <div align="center">
     <a href="https://pokemondb.net/pokedex/oshawott"><img src="https://img.pokemondb.net/sprites/black-white-2/anim/shiny/oshawott.gif" alt="Oshawott"></a> <br>
     <b>Any Pronous | front-end and back-end student </b> <br>
-    <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+    <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=blue" />
+    <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue" />
     <br>
     <a href="https://www.dio.me/users/juhh1956">
-        <img alt="Static Badge" src="https://img.shields.io/badge/DIO-Black?style=flat-square&color=3f88c5">
+        <img alt="Static Badge" src="https://img.shields.io/badge/DIO-blue?style=for-the-badge">
     </a>
-        <a href="https://www.dio.me/users/juhh1956">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Currículo-Black?style=flat-square&color=3f88c5">
+    <a href="">
+        <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge">
+    </a>
+    <a href="https://www.dio.me/users/juhh1956">
+        <img alt="Static Badge" src="https://img.shields.io/badge/...-blue?style=for-the-badge">
     </a>
 </div>
 
