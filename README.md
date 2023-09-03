@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/hakuakai/">
         <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge">
     </a>
-    <a href="https://www.dio.me/users/juhh1956">
+    <a href="https://www.canva.com/design/DAFhbIVJ4KY/9t40VDRbjESX_aDW0o78kw/view?utm_content=DAFhbIVJ4KY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
         <img alt="Static Badge" src="https://img.shields.io/badge/...-blue?style=for-the-badge">
     </a>
 </div>
