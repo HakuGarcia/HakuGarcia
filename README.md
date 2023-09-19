@@ -26,6 +26,7 @@
 <div align="center" style="display: inline-block">
     <img src="https://streak-stats.demolab.com/?user=HakuAkai&theme=transparent&color=blue&background=000&border=0525B3&dates=FFF"/>
     <img src="https://github.com/HakuAkai/rafaballerini/blob/output/github-contribution-grid-snake.svg"/>
+    <img src="cobrinha.yml"/>
 </div>
 
 
