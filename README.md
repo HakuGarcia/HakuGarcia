@@ -25,7 +25,7 @@
 <hr>
 <div align="center" style="display: inline-block">
     <img src="https://streak-stats.demolab.com/?user=HakuAkai&theme=transparent&color=blue&background=000&border=0525B3&dates=FFF"/>
-    <img src="https://github.com/HakuAkai/HakuAkai/blob/d4e306b12e92ee4dd06cf0a6f059155a495fb905/.github/workflows/main.yml"/>
+    <img src="https://github.com/HakuAkai/HakuAkai/blob/44f13247df8a686ed648c6dd14325bced40e4dbd/.github/workflows/main.yml"/>
 </div>
 
 
