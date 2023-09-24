@@ -25,7 +25,7 @@
 <hr>
 <div align="center" style="display: inline-block">
     <img src="https://streak-stats.demolab.com/?user=HakuAkai&theme=transparent&color=blue&background=000&border=0525B3&dates=FFF"/>
-    <img src="https://github.com/HakuAkai/rafaballerini/blob/output/github-contribution-grid-snake.svg"/>
+    <img src="https://github.com/HakuAkai/HakuAkai/tree/336f0320ed737f54d2b50142917233bf084e2cda/.github/workflows"/>
 </div>
 
 
