@@ -5,7 +5,8 @@
     <b>Any Pronous | Front-end and Back-end student. </b> <br>
     <img src="https://img.shields.io/badge/Scratch-black?style=for-the-badge&logo=Scratch&logoColor=blue" /> <br>
     <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=blue" />
-    <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue" />
+    <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue" /> <br>
+    <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=blue" /> 
     <br>
     <a href="https://www.dio.me/users/juhh1956">
         <img alt="Static Badge" src="https://img.shields.io/badge/DIO-blue?style=for-the-badge">
