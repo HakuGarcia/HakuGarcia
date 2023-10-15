@@ -4,11 +4,6 @@
     <a href="https://pokemondb.net/pokedex/oshawott"><img src="https://img.pokemondb.net/sprites/black-white-2/anim/shiny/oshawott.gif" alt="Oshawott"></a> <br>
     <b> Any Pronous | Programmer's student </b> <br>
     <b> ---------------------------------- </b> <br>
-    <img src="https://img.shields.io/badge/Scratch-black?style=for-the-badge&logo=Scratch&logoColor=blue" /> <br>
-    <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=blue" />
-    <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue" /> <br>
-    <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=blue" /> 
-    <br>
     <a href="https://www.dio.me/users/juhh1956">
         <img alt="Static Badge" src="https://img.shields.io/badge/DIO-blue?style=for-the-badge">
     </a>
@@ -17,7 +12,11 @@
     </a>
     <a href="https://www.canva.com/design/DAFhbIVJ4KY/9t40VDRbjESX_aDW0o78kw/view?utm_content=DAFhbIVJ4KY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
         <img alt="Static Badge" src="https://img.shields.io/badge/me-blue?style=for-the-badge">
-    </a>
+    </a> <br>
+    <img src="https://img.shields.io/badge/Scratch-black?style=for-the-badge&logo=Scratch&logoColor=blue" /> <br>
+    <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=blue" />
+    <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue" /> <br>
+    <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=blue" /> 
     <br> <br>
     <table>
         <thead>
