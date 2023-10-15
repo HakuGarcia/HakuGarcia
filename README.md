@@ -3,6 +3,7 @@
 <div align="center">
     <a href="https://pokemondb.net/pokedex/oshawott"><img src="https://img.pokemondb.net/sprites/black-white-2/anim/shiny/oshawott.gif" alt="Oshawott"></a> <br>
     <b> Any Pronous | Programmer's student </b> <br>
+    <b> ---------------------------------- </b> <br>
     <img src="https://img.shields.io/badge/Scratch-black?style=for-the-badge&logo=Scratch&logoColor=blue" /> <br>
     <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=blue" />
     <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue" /> <br>
