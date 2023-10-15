@@ -18,11 +18,13 @@
     <a href="https://www.canva.com/design/DAFhbIVJ4KY/9t40VDRbjESX_aDW0o78kw/view?utm_content=DAFhbIVJ4KY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
         <img alt="Static Badge" src="https://img.shields.io/badge/me-blue?style=for-the-badge">
     </a>
+    <br> <br>
     <table>
         <thead>
             <tr align="left">
                 <th>Name</th>
                 <th>Repository</th>
+                <th></th>
             </tr>
         </thead>
     <tbody align="left">
@@ -30,6 +32,8 @@
             <td>HTML5 - CSS3</td>
             <td>
                 <a href="https://github.com/HakuAkai/HTML5-CSS3.git">HTML5-CSS3</a>
+            </td>
+            <td>
             </td>           
         </tr>
         <tr>
@@ -50,6 +54,38 @@
                 <a href="https://github.com/HakuAkai/marry.git">marry</a>
             </td> 
         </tr>
+        <tr>
+            <td>Golang</td>
+            <td>
+                <a href="https://github.com/HakuAkai/Golang.git">Golang</a>
+            </td> 
+            <td>
+            </td> 
+        </tr>
+        <tr>
+            <td>VBScript</td>
+            <td>
+                <a href="https://github.com/HakuAkai/S2.git">S2</a>
+            </td> 
+            <td>
+            </td> 
+        </tr>
+        <tr>
+            <td>Linux</td>
+            <td>
+                <a href="https://github.com/HakuAkai/Linux.git">Linux</a>
+            </td> 
+            <td>
+            </td> 
+        </tr>
+        <tr>
+            <td>Docker</td>
+            <td>
+                <a href="https://github.com/HakuAkai/Docker.git">Docker</a>
+            </td> 
+            <td>
+            </td> 
+        </tr>
     </tbody>
     <tfoot></tfoot>
     </table>
@@ -64,6 +100,4 @@
 <div align="center" style="display: inline-block">
     <img src="https://streak-stats.demolab.com/?user=HakuAkai&theme=transparent&color=blue&background=000&border=0525B3&dates=FFF"/>
 </div>
-
-
 
