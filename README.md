@@ -1,8 +1,8 @@
 <h1 align="center">Haku Akai</h1>
 
-<div align="center">
+<div align="justify">
     <a href="https://pokemondb.net/pokedex/oshawott"><img src="https://img.pokemondb.net/sprites/black-white-2/anim/shiny/oshawott.gif" alt="Oshawott"></a> <br>
-    <b>Any Pronous </b> <br>
+    <b> Any Pronous | Programmer's student </b> <br>
     <img src="https://img.shields.io/badge/Scratch-black?style=for-the-badge&logo=Scratch&logoColor=blue" /> <br>
     <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=blue" />
     <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue" /> <br>
@@ -20,12 +20,12 @@
 </div>
 
 
-<div align="center" style="display: inline-block"><br>
+<div align="justify" style="display: inline-block"><br>
     <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakuakai&layout=compact&theme=transparent&hide_border=true"/>
     <img width="300" src="https://github-readme-stats.vercel.app/api?username=hakuakai&count_private=true&layout=compact&theme=transparent&hide_border=true"/> 
 </div>
 <hr>
-<div align="center" style="display: inline-block">
+<div align="justify" style="display: inline-block">
     <img src="https://streak-stats.demolab.com/?user=HakuAkai&theme=transparent&color=blue&background=000&border=0525B3&dates=FFF"/>
 </div>
 
