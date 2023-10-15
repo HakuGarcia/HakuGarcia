@@ -18,10 +18,9 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/...-blue?style=for-the-badge">
     </a>
 </div>
-<hr>
 <div align="center" style="display: inline-block"><br>
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakuakai&layout=compact&theme=transparent&hide_border=true"/>
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=hakuakai&count_private=true&layout=compact&theme=transparent&hide_border=true"/> 
+    <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakuakai&layout=compact&theme=transparent&hide_border=true"/>
+    <img width="350" src="https://github-readme-stats.vercel.app/api?username=hakuakai&count_private=true&layout=compact&theme=transparent&hide_border=true"/> 
 </div>
 <br>
 <div align="center" style="display: inline-block">
