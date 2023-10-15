@@ -16,9 +16,46 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge">
     </a>
     <a href="https://www.canva.com/design/DAFhbIVJ4KY/9t40VDRbjESX_aDW0o78kw/view?utm_content=DAFhbIVJ4KY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
-        <img alt="Static Badge" src="https://img.shields.io/badge/...-blue?style=for-the-badge">
+        <img alt="Static Badge" src="https://img.shields.io/badge/me-blue?style=for-the-badge">
     </a>
+    <table>
+        <thead>
+            <tr align="left">
+                <th>Name</th>
+                <th>Repository</th>
+            </tr>
+        </thead>
+    <tbody align="left">
+        <tr>
+            <td>HTML5 - CSS3</td>
+            <td>
+                <a href="https://github.com/HakuAkai/HTML5-CSS3.git">HTML5-CSS3</a>
+            </td>           
+        </tr>
+        <tr>
+            <td>Python</td>
+            <td>
+                <a href="https://github.com/HakuAkai/Python.git">Python</a>
+            </td>
+            <td>
+                <a href="https://github.com/HakuAkai/heart-on-py.git">heart on py</a>
+            </td> 
+        </tr>
+        <tr>
+            <td>Ruby</td>
+            <td>
+                <a href="https://github.com/HakuAkai/Ruby.git">Ruby</a>
+            </td> 
+            <td>
+                <a href="https://github.com/HakuAkai/marry.git">marry</a>
+            </td> 
+        </tr>
+    </tbody>
+    <tfoot></tfoot>
+    </table>
 </div>
+<br>
+<hr>
 <div align="center" style="display: inline-block"><br>
     <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakuakai&layout=compact&theme=transparent&hide_border=true"/>
     <img width="350" src="https://github-readme-stats.vercel.app/api?username=hakuakai&count_private=true&layout=compact&theme=transparent&hide_border=true"/> 
