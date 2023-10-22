@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=blue" />
     <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue" /> <br>
     <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=blue" /> 
+    <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=blue" /> 
     <br> <br>
     <table>
         <thead>
