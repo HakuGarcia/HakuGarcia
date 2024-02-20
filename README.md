@@ -53,14 +53,12 @@
                 <a href="https://github.com/HakuAkai/marry.git">marry</a>
             </td> 
         </tr>
-        <tr>
+        <!-- <tr>
             <td>Golang</td>
             <td>
                 <a href="https://github.com/HakuAkai/Golang.git">Golang</a>
-            </td> 
-            <td>
-            </td> 
-        </tr>
+            </td>  
+        </tr> -->
         <tr>
             <td>VBScript</td>
             <td>
