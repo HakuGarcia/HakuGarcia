@@ -33,7 +33,8 @@
                 <a href="https://github.com/HakuGarcia/HTML5-CSS3.git">HTML5-CSS3</a>
             </td>
             <td>
-            </td>           
+                <a href="https://github.com/HakuGarcia/Front-End.git">Front-End</a>
+            </td>   
         </tr>
         <tr>
             <td>Python</td>
