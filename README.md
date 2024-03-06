@@ -1,4 +1,4 @@
-<h1 align="center">Haku Akai</h1>
+<h1 align="center">Haku Garcia</h1>
 
 <div align="center">
     <a href="https://pokemondb.net/pokedex/oshawott"><img src="https://img.pokemondb.net/sprites/black-white-2/anim/shiny/oshawott.gif" alt="Oshawott"></a> <br>
