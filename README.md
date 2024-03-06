@@ -30,7 +30,7 @@
         <tr>
             <td>Front-End</td>
             <td>
-                <a href="https://github.com/HakuAkai/HTML5-CSS3.git">HTML5-CSS3</a>
+                <a href="https://github.com/HakuGarcia/HTML5-CSS3.git">HTML5-CSS3</a>
             </td>
             <td>
             </td>           
@@ -38,19 +38,19 @@
         <tr>
             <td>Python</td>
             <td>
-                <a href="https://github.com/HakuAkai/Python.git">Python</a>
+                <a href="https://github.com/HakuGarcia/Python.git">Python</a>
             </td>
             <td>
-                <a href="https://github.com/HakuAkai/heart-on-py.git">heart on py</a>
+                <a href="https://github.com/HakuGarcia/heart-on-py.git">heart on py</a>
             </td> 
         </tr>
         <tr>
             <td>Ruby</td>
             <td>
-                <a href="https://github.com/HakuAkai/Ruby.git">Ruby</a>
+                <a href="https://github.com/HakuGarcia/Ruby.git">Ruby</a>
             </td> 
             <td>
-                <a href="https://github.com/HakuAkai/marry.git">marry</a>
+                <a href="https://github.com/HakuGarcia/marry.git">marry</a>
             </td> 
         </tr>
         <!-- <tr>
@@ -62,7 +62,7 @@
         <tr>
             <td>VBScript</td>
             <td>
-                <a href="https://github.com/HakuAkai/S2.git">S2</a>
+                <a href="https://github.com/HakuGarcia/S2.git">S2</a>
             </td> 
             <td>
             </td> 
@@ -70,7 +70,7 @@
         <tr>
             <td>Linux</td>
             <td>
-                <a href="https://github.com/HakuAkai/Linux.git">Linux</a>
+                <a href="https://github.com/HakuGarcia/Linux.git">Linux</a>
             </td> 
             <td>
             </td> 
@@ -78,7 +78,7 @@
         <tr>
             <td>Docker</td>
             <td>
-                <a href="https://github.com/HakuAkai/Docker.git">Docker</a>
+                <a href="https://github.com/HakuGarcia/Docker.git">Docker</a>
             </td> 
             <td>
             </td> 
@@ -90,11 +90,11 @@
 <br>
 <hr>
 <div align="center" style="display: inline-block"><br>
-    <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakuakai&layout=compact&theme=transparent&hide_border=true"/>
-    <img width="350" src="https://github-readme-stats.vercel.app/api?username=hakuakai&count_private=true&layout=compact&theme=transparent&hide_border=true"/> 
+    <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garcia&layout=compact&theme=transparent&hide_border=true"/>
+    <img width="350" src="https://github-readme-stats.vercel.app/api?username=Garcia&count_private=true&layout=compact&theme=transparent&hide_border=true"/> 
 </div>
 <br>
 <div align="center" style="display: inline-block">
-    <img src="https://streak-stats.demolab.com/?user=HakuAkai&theme=transparent&color=blue&background=000&border=0525B3&dates=FFF"/>
+    <img src="https://streak-stats.demolab.com/?user=Garcia&theme=transparent&color=blue&background=000&border=0525B3&dates=FFF"/>
 </div>
 
