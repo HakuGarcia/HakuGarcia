@@ -95,6 +95,6 @@
 </div>
 <br>
 <div align="center" style="display: inline-block">
-    <img src="https://streak-stats.demolab.com/?user=HakuGarcia&theme=transparent&color=blue&background=000&border=0525B3&dates=FFF"/>
+    <img src="https://streak-stats.demolab.com/?user=Garcia&theme=transparent&color=blue&background=000&border=0525B3&dates=FFF"/>
 </div>
 
