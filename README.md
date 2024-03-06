@@ -28,7 +28,9 @@
         </thead>
     <tbody align="left">
         <tr>
-            <td>Front-End</td>
+            <td>
+                <img src="https://img.shields.io/badge/FrontEnd-black?style=for-the-badge"/>
+            </td>
             <td>
                 <a href="https://github.com/HakuGarcia/HTML5-CSS3.git">HTML5-CSS3</a>
             </td>
@@ -37,7 +39,9 @@
             </td>   
         </tr>
         <tr>
-            <td>Python</td>
+            <td>
+                <img src="https://img.shields.io/badge/Python-black?style=for-the-badge"/>
+            </td>
             <td>
                 <a href="https://github.com/HakuGarcia/Python.git">Python</a>
             </td>
@@ -46,7 +50,9 @@
             </td> 
         </tr>
         <tr>
-            <td>Ruby</td>
+            <td>
+                <img src="https://img.shields.io/badge/Ruby-black?style=for-the-badge"/>
+            </td>
             <td>
                 <a href="https://github.com/HakuGarcia/Ruby.git">Ruby</a>
             </td> 
@@ -61,31 +67,45 @@
             </td>  
         </tr> -->
         <tr>
-            <td>VBScript</td>
+            <td>
+                <img src="https://img.shields.io/badge/VBScript-black?style=for-the-badge"/>
+            </td>
             <td>
                 <a href="https://github.com/HakuGarcia/S2.git">S2</a>
             </td> 
             <td>
             </td> 
         </tr>
+        </tbody>
+        <tfoot></tfoot>
+    </table>
+    <br>
+    <table>
+        <thead>
+            <tr align="left">
+                <th>Name</th>
+                <th>Repository</th>
+            </tr>
+        </thead>
+    <tbody align="left">
         <tr>
-            <td>Linux</td>
+            <td>
+                <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge"/>
+            </td>
             <td>
                 <a href="https://github.com/HakuGarcia/Linux.git">Linux</a>
             </td> 
-            <td>
-            </td> 
         </tr>
         <tr>
-            <td>Docker</td>
+            <td>
+                <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge"/>
+            </td>
             <td>
                 <a href="https://github.com/HakuGarcia/Docker.git">Docker</a>
             </td> 
-            <td>
-            </td> 
         </tr>
-    </tbody>
-    <tfoot></tfoot>
+        </tbody>
+        <tfoot></tfoot>
     </table>
 </div>
 <br>
@@ -98,4 +118,3 @@
 <div align="center" style="display: inline-block">
     <img src="https://streak-stats.demolab.com/?user=Garcia&theme=transparent&color=blue&background=000&border=0525B3&dates=FFF"/>
 </div>
-
