@@ -28,7 +28,7 @@
         </thead>
     <tbody align="left">
         <tr>
-            <td>HTML5 - CSS3</td>
+            <td>Front-End</td>
             <td>
                 <a href="https://github.com/HakuAkai/HTML5-CSS3.git">HTML5-CSS3</a>
             </td>
