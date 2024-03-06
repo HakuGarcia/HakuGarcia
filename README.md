@@ -44,6 +44,15 @@
         </tr>
         <tr>
             <td>
+                <img src="https://img.shields.io/badge/Java-black?style=for-the-badge"/>
+            </td>
+            <td>
+                <a href="https://github.com/HakuGarcia/Python.git">Java</a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
                 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge"/>
             </td>
             <td>
