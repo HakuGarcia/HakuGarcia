@@ -1,4 +1,4 @@
-<h1 align="center">Haku Garcia</h1>
+<h1 align="center">Haku Akai</h1>
 
 <div align="center">
     <a href="https://pokemondb.net/pokedex/oshawott"><img src="https://img.pokemondb.net/sprites/black-white-2/anim/shiny/oshawott.gif" alt="Oshawott"></a> <br>
@@ -20,7 +20,9 @@
     <br>
     <hr>
     <br>
-    <table>
+</div>
+<div align="center" style="display: block flex">
+    <table style="margin-right: 40px">
         <thead>
             <tr align="left">
                 <th>Name</th>
@@ -87,6 +89,7 @@
             <tr align="left">
                 <th>Name</th>
                 <th>Repository</th>
+                <th></th>
             </tr>
         </thead>
     <tbody align="left">
@@ -97,6 +100,8 @@
             <td>
                 <a href="https://github.com/HakuGarcia/Linux.git">Linux</a>
             </td> 
+            <td>
+            </td> 
         </tr>
         <tr>
             <td>
@@ -104,6 +109,8 @@
             </td>
             <td>
                 <a href="https://github.com/HakuGarcia/Docker.git">Docker</a>
+            </td> 
+            <td>
             </td> 
         </tr>
         </tbody>
