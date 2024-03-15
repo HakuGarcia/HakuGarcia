@@ -4,9 +4,6 @@
     <a href="https://pokemondb.net/pokedex/oshawott"><img src="https://img.pokemondb.net/sprites/black-white-2/anim/shiny/oshawott.gif" alt="Oshawott"></a> <br>
     <b> Any Pronous </b> <br>
     <b> ---------------------------------- </b> <br>
-    <a href="https://www.dio.me/users/juhh1956">
-        <img alt="Static Badge" src="https://img.shields.io/badge/DIO-blue?style=for-the-badge">
-    </a>
     <a href="https://www.linkedin.com/in/hakuakai/">
         <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge">
     </a>
