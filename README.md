@@ -13,9 +13,12 @@
     <a href="https://www.canva.com/design/DAFhbIVJ4KY/9t40VDRbjESX_aDW0o78kw/view?utm_content=DAFhbIVJ4KY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
         <img alt="Static Badge" src="https://img.shields.io/badge/me-blue?style=for-the-badge">
     </a> <br>
-    <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=orange" />
     <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue" /> <br>
-    <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=blue" /> 
+    <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=blue" /> 
     <br>
     <hr>
