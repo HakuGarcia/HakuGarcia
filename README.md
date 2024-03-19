@@ -2,8 +2,8 @@
 
 <br>
 
-<div align=center>
-    <img width="40%" src="https://i.pinimg.com/originals/d9/4e/41/d94e419561194c4c65b6e4f3cad965ff.gif" alt="Oshawott">
+<div>
+    <img  align=left width="40%" src="https://i.pinimg.com/originals/d9/4e/41/d94e419561194c4c65b6e4f3cad965ff.gif" alt="Oshawott">
     <div>
         <a href="https://www.linkedin.com/in/hakuakai/">
             <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-023047?style=for-the-badge">
@@ -12,7 +12,6 @@
             <img alt="Static Badge" src="https://img.shields.io/badge/me-023047?style=for-the-badge">
         </a>
     </div>
-    <br>
     <div>
         <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
         <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github&logoColor=white"/>  
