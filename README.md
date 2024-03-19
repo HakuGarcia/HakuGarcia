@@ -1,8 +1,8 @@
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&duration=2000&pause=1000&color=FEFAE0&center=true&multiline=true&random=false&width=435&lines=Hi+%3A)+;I'm+Haku%2C+a+tech+student+%E2%98%86" alt="Typing SVG" />
-</a>
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=fefae0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+%3A)+;I'm+Haku%2C+a+tech+student+%E2%98%86" alt="Typing SVG" />
 
 <br>
+
+<img align="right" width="250" src="https://i.pinimg.com/originals/d9/4e/41/d94e419561194c4c65b6e4f3cad965ff.gif" alt="Oshawott">
 
 <div align="center">
     <a href="https://www.linkedin.com/in/hakuakai/">
@@ -13,27 +13,21 @@
     </a>
 </div>
 
-<hr>
-<br>
-
-<img align="left" width="250" src="https://i.pinimg.com/originals/d9/4e/41/d94e419561194c4c65b6e4f3cad965ff.gif" alt="Oshawott">
-
-<div>
+<div align="center">
     <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github&logoColor=white"/>  
 </div>
 
-<div>
+<div align="center">
     <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=orange" />
     <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue" /> 
 </div>
 
-<div>
+<div align="center">
     <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=blue" />   
 </div>
 
-<br>
 <br>
 <br>
 
