@@ -2,9 +2,9 @@
 
 <br>
 
-<img align="right" width="250" src="https://i.pinimg.com/originals/d9/4e/41/d94e419561194c4c65b6e4f3cad965ff.gif" alt="Oshawott">
+<img align="right" width="40%" src="https://i.pinimg.com/originals/d9/4e/41/d94e419561194c4c65b6e4f3cad965ff.gif" alt="Oshawott">
 
-<div align="center">
+<div align="right">
     <a href="https://www.linkedin.com/in/hakuakai/">
         <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-023047?style=for-the-badge">
     </a>
@@ -13,21 +13,22 @@
     </a>
 </div>
 
-<div align="center">
+<div align="right">
     <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github&logoColor=white"/>  
 </div>
 
-<div align="center">
+<div align="right">
     <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=orange" />
     <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue" /> 
 </div>
 
-<div align="center">
+<div align="right">
     <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=blue" />   
 </div>
 
+<br>
 <br>
 <br>
 
