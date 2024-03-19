@@ -89,19 +89,6 @@
             <td>
             </td> 
         </tr>
-        </tbody>
-        <tfoot></tfoot>
-    </table>
-    <br>
-    <table>
-        <thead>
-            <tr align="left">
-                <th>Name</th>
-                <th>Repository</th>
-                <th></th>
-            </tr>
-        </thead>
-    <tbody align="left">
         <tr>
             <td>
                 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge"/>
