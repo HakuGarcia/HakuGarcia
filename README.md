@@ -1,13 +1,13 @@
 <div align="center">
-    <header>
+    <div>
         <h1>
             <a href="https://pokemondb.net/pokedex/oshawott">
                 <img src="https://img.pokemondb.net/sprites/black-white/anim/shiny/oshawott.gif" alt="Oshawott">
             </a>
             <span>Haku</span>
         </h1>
-    </header>
-    <section align="left" style="display: flex">
+    </div>
+    <div align="left" style="display: flex">
         <div align="center" style="margin: 10px; display: grid">
             <a href="https://br.pinterest.com/pin/729160995903006391/">
                 <img width="250" src="https://i.pinimg.com/originals/d9/4e/41/d94e419561194c4c65b6e4f3cad965ff.gif" alt="Oshawott">
@@ -21,7 +21,7 @@
                 </a>
             </div> 
         </div>
-        <div align="left" style="margin: 20px;">
+        <div align="left" style="margin: 20px; display: grid">
             <div>
                 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
                 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github&logoColor=white"/>
@@ -35,9 +35,9 @@
                 <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=blue" /> 
             </div>
         </div>
-    </section>
+    </div>
     <hr>
-    <section align="center" style="margin-right: 40px">
+    <div align="center" style="margin-right: 40px">
         <table>
             <thead>
                 <tr align="left">
@@ -128,9 +128,9 @@
             </tbody>
             <tfoot></tfoot>
         </table>
-    </section>
+    </div>
     <hr>
-    <section align="center">
+    <div align="center">
         <div style="display: inline-block">
             <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakuGarcia&layout=compact&theme=transparent&hide_border=true"/>
             <img width="350" src="https://github-readme-stats.vercel.app/api?username=HakuGarcia&count_private=true&layout=compact&theme=transparent&hide_border=true"/> 
@@ -138,5 +138,5 @@
         <div style="display: inline-block">
             <img src="https://streak-stats.demolab.com/?user=Garcia&theme=transparent&color=blue&background=000&border=0525B3&dates=FFF"/>
         </div>
-    </section>
+    </div>
 </div>
