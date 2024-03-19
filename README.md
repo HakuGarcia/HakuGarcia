@@ -12,6 +12,7 @@
             <img alt="Static Badge" src="https://img.shields.io/badge/me-023047?style=for-the-badge">
         </a>
     </div>
+    <br>
     <div>
         <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
         <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github&logoColor=white"/>  
