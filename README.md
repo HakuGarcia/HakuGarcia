@@ -2,38 +2,26 @@
 
 <br>
 
-<img align="left" width="40%" src="https://i.pinimg.com/originals/d9/4e/41/d94e419561194c4c65b6e4f3cad965ff.gif" alt="Oshawott">
+<div align="center">
+<img align="left" width="30%" src="https://i.pinimg.com/originals/d9/4e/41/d94e419561194c4c65b6e4f3cad965ff.gif" alt="Oshawott">
 
 <pre>
-    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    ✨ Any pronouns
+    📖 Python • Java • Ruby 
+    🎮 Music • Games • Anime • Art • Crochet
+    🔎 juhh1956@gmail.com
 </pre>
 
-<div>
-    <a href="https://www.linkedin.com/in/hakuakai/">
-        <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-023047?style=for-the-badge">
-    </a>
-    <a href="https://www.canva.com/design/DAFhbIVJ4KY/9t40VDRbjESX_aDW0o78kw/view?utm_content=DAFhbIVJ4KY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
-        <img alt="Static Badge" src="https://img.shields.io/badge/me-023047?style=for-the-badge">
-    </a>
+[![](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red)]()
+[![](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github&logoColor=white)]()
+[![](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=orange)]()
+[![](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue)]()
+[![](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=white)]()
+[![](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=blue)]()
+
 </div>
 
-<br>
-
-<div>
-    <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github&logoColor=white"/>  
-</div>
-
-<div>
-    <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=orange" />
-    <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue" /> 
-</div>
-
-<div>
-    <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=blue" />   
-</div>
-
+<br> 
 <br>
 
 <hr>
