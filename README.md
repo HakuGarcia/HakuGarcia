@@ -24,12 +24,22 @@
 <br>
 
 <hr>
+
+<div align="center">
+
+[![](https://img.shields.io/badge/Marry-black?style=for-the-badge&logo=ruby&logoColor=red)](https://github.com/HakuGarcia/marry.git)
+[![](https://img.shields.io/badge/s2-black?style=for-the-badge&logo=vbscript&logoColor=red)](https://github.com/HakuGarcia/S2.git)
+
+</div>
+
+
 <div align="center" style="margin-right: 40px">
     <table>
         <thead>
             <tr align="left">
                 <th>Name</th>
                 <th>Repository</th>
+                <th></th>
                 <th></th>
             </tr>
         </thead>
@@ -47,34 +57,17 @@
         </tr>
         <tr>
             <td>
-                <img src="https://img.shields.io/badge/Java-black?style=for-the-badge"/>
+                <img src="https://img.shields.io/badge/BackEnd-black?style=for-the-badge"/>
             </td>
             <td>
                 <a href="https://github.com/HakuGarcia/Java.git">Java</a>
-            </td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>
-                <img src="https://img.shields.io/badge/Python-black?style=for-the-badge"/>
             </td>
             <td>
                 <a href="https://github.com/HakuGarcia/Python.git">Python</a>
             </td>
             <td>
-                <a href="https://github.com/HakuGarcia/heart-on-py.git">heart on py</a>
-            </td> 
-        </tr>
-        <tr>
-            <td>
-                <img src="https://img.shields.io/badge/Ruby-black?style=for-the-badge"/>
-            </td>
-            <td>
                 <a href="https://github.com/HakuGarcia/Ruby.git">Ruby</a>
-            </td> 
-            <td>
-                <a href="https://github.com/HakuGarcia/marry.git">marry</a>
-            </td> 
+            </td>
         </tr>
         <!-- <tr>
             <td>Golang</td>
@@ -84,27 +77,10 @@
         </tr> -->
         <tr>
             <td>
-                <img src="https://img.shields.io/badge/VBScript-black?style=for-the-badge"/>
-            </td>
-            <td>
-                <a href="https://github.com/HakuGarcia/S2.git">S2</a>
-            </td> 
-            <td>
-            </td> 
-        </tr>
-        <tr>
-            <td>
-                <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge"/>
+                <img src="https://img.shields.io/badge/DevOps-black?style=for-the-badge"/>
             </td>
             <td>
                 <a href="https://github.com/HakuGarcia/Linux.git">Linux</a>
-            </td> 
-            <td>
-            </td> 
-        </tr>
-        <tr>
-            <td>
-                <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge"/>
             </td>
             <td>
                 <a href="https://github.com/HakuGarcia/Docker.git">Docker</a>
@@ -117,9 +93,7 @@
             </td>
             <td>
                 <a href="https://github.com/HakuGarcia/BancoDeDados.git">BancoDeDados</a>
-            </td> 
-            <td>
-            </td> 
+            </td>  
         </tr>
         </tbody>
         <tfoot></tfoot>
