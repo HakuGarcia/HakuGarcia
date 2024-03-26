@@ -53,7 +53,8 @@
             </td>
             <td>
                 <a href="https://github.com/HakuGarcia/Front-End.git">Front-End</a>
-            </td>   
+            </td>  
+            <td></td>
         </tr>
         <tr>
             <td>
@@ -94,6 +95,8 @@
             <td>
                 <a href="https://github.com/HakuGarcia/BancoDeDados.git">BancoDeDados</a>
             </td>  
+            <td></td>
+            <td></td>
         </tr>
         </tbody>
         <tfoot></tfoot>
