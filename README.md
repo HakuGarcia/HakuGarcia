@@ -24,6 +24,7 @@
 <br>
 
 <hr>
+<br>
 
 <div align="center">
 
@@ -32,13 +33,12 @@
 
 </div>
 
-
 <div align="center" style="margin-right: 40px">
     <table>
         <thead>
             <tr align="left">
-                <th>Name</th>
-                <th>Repository</th>
+                <th>(o゜▽゜)o☆</th>
+                <th></th>
                 <th></th>
                 <th></th>
             </tr>
@@ -102,6 +102,7 @@
         <tfoot></tfoot>
     </table>
 </div>
+<br>
 <hr>
 <div align="center">
     <div style="display: inline-block">
