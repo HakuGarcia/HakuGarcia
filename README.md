@@ -108,7 +108,4 @@
         <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakuGarcia&layout=compact&theme=transparent&hide_border=true"/>
         <img width="350" src="https://github-readme-stats.vercel.app/api?username=HakuGarcia&count_private=true&layout=compact&theme=transparent&hide_border=true"/> 
     </div>
-    <div style="display: inline-block">
-        <img src="https://streak-stats.demolab.com/?user=Garcia&theme=transparent&color=blue&background=000&border=0525B3&dates=FFF"/>
-    </div>
 </div>
