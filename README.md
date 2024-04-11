@@ -87,6 +87,7 @@
                 <a href="https://github.com/HakuGarcia/Docker.git">Docker</a>
             </td> 
             <td>
+                <a href="https://github.com/HakuGarcia/PowerShell.git">PowerShell</a>
             </td> 
         </tr>
             <td>
