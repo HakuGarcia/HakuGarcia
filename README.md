@@ -14,10 +14,8 @@
 
 [![](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red)]()
 [![](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github&logoColor=white)]()
-[![](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=orange)]()
-[![](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue)]()
-[![](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=white)]()
-[![](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=blue)]()
+[![](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python)]()
+[![](https://img.shields.io/badge/Ruby-black?style=for-the-badge&logo=Ruby&logoColor=red)]()
 
 </div>
 
