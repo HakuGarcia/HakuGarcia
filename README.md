@@ -7,7 +7,7 @@
 
 <pre>
     ✨ Any pronouns
-    📖 Python • Java • Ruby 
+    📖 Front-End • DevOps •  
     🎮 Music • Games • Anime • Art • Crochet
     🔎 juhh1956@gmail.com
 </pre>
@@ -52,7 +52,9 @@
             <td>
                 <a href="https://github.com/HakuGarcia/Front-End.git">Front-End</a>
             </td>  
-            <td></td>
+            <td>
+                <a href="https://github.com/1TDSPM-2024">1TDSPM</a>
+            </td>
         </tr>
         <tr>
             <td>
