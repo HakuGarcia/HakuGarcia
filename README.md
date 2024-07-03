@@ -7,7 +7,7 @@
 
 <pre>
     ✨ Any pronouns
-    📖 Front-End • DevOps •  
+    📖 Front-End • DevOps • Back-End
     🎮 Music • Games • Anime • Art • Crochet
     🔎 juhh1956@gmail.com
 </pre>
