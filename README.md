@@ -27,7 +27,9 @@
 <div align="center">
 
 [![](https://img.shields.io/badge/Marry-black?style=for-the-badge&logo=ruby&logoColor=red)](https://github.com/HakuGarcia/marry.git)
-[![](https://img.shields.io/badge/s2-black?style=for-the-badge&logo=vbscript&logoColor=red)](https://github.com/HakuGarcia/S2.git)
+[![](https://img.shields.io/badge/s2-black?style=for-the-badge&logo=vbscript&logoColor=orange)](https://github.com/HakuGarcia/S2.git)
+[![](https://img.shields.io/badge/beta-black?style=for-the-badge&logo=html5&logoColor=red)](https://github.com/HakuGarcia/portfolio-beta.git)
+
 
 </div>
 
