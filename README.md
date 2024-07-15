@@ -26,11 +26,11 @@
 
 <div align="center">
 
-[![](https://img.shields.io/badge/Marry-black?style=for-the-badge&logo=ruby&logoColor=red)](https://github.com/HakuGarcia/marry.git)
-[![](https://img.shields.io/badge/s2-black?style=for-the-badge&logo=vbscript&logoColor=orange)](https://github.com/HakuGarcia/S2.git)
+[![](https://img.shields.io/badge/Marry-black?style=for-the-badge&logo=ruby&logoColor=red)](https://github.com/HakuGarcia/marry)
+[![](https://img.shields.io/badge/s2-black?style=for-the-badge&logo=vbscript&logoColor=orange)](https://github.com/HakuGarcia/S2)
 
-[![](https://img.shields.io/badge/beta-black?style=for-the-badge&logo=html5&logoColor=red)](https://github.com/HakuGarcia/portfolio-beta.git)
-[![](https://img.shields.io/badge/alura+-black?style=for-the-badge&logo=html5&logoColor=red)](https://github.com/HakuGarcia/aluraplust)
+[![](https://img.shields.io/badge/beta-black?style=for-the-badge&logo=html5&logoColor=red)](https://github.com/HakuGarcia/portfolio-beta)
+[![](https://img.shields.io/badge/alura+-black?style=for-the-badge&logo=html5&logoColor=red)](https://github.com/HakuGarcia/aluraplus)
 
 </div>
 
