@@ -39,9 +39,9 @@
         <thead>
             <tr align="left">
                 <th>(o゜▽゜)o☆</th>
-                <th></th>
-                <th></th>
-                <th></th>
+                <th>　ﾟ *.｡☆｡★　･</th>
+                <th>* ☆ ｡･ﾟ*.｡</th>
+                <th> ･ ﾟ*｡･ﾟ★｡</th>
             </tr>
         </thead>
     <tbody align="left">
@@ -89,9 +89,7 @@
             <td>
                 <a href="https://github.com/HakuGarcia/Docker.git">Docker</a>
             </td> 
-            <td>
-                <a href="https://github.com/HakuGarcia/PowerShell.git">PowerShell</a>
-            </td> 
+            <td></td>
         </tr>
             <td>
                 <img src="https://img.shields.io/badge/DataBase-black?style=for-the-badge"/>
@@ -99,6 +97,16 @@
             <td>
                 <a href="https://github.com/HakuGarcia/BancoDeDados.git">BancoDeDados</a>
             </td>  
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://img.shields.io/badge/Plus-black?style=for-the-badge"/>
+            </td>
+            <td>
+                <a href="https://github.com/HakuGarcia/PowerShell.git">PowerShell</a>
+            </td> 
             <td></td>
             <td></td>
         </tr>
